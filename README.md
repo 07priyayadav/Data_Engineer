@@ -45,5 +45,6 @@ The project is designed with the following components:
 - PostgreSQL
 - Docker
 
-Credits: I have followed below youtube video to build the end to end streaming platform -->
-For a complete walkthrough and practical demonstration, check out our [YouTube Video Tutorial](https://www.youtube.com/watch?v=GqAcTrqKcrY).
+##Credits: 
+I have followed below youtube video to build the end to end streaming platform -->
+[YouTube Video Tutorial](https://www.youtube.com/watch?v=GqAcTrqKcrY).

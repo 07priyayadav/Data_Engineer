@@ -47,5 +47,5 @@ The project is designed with the following components:
 
 ## Credits
 
-I have followed below youtube video to build the end to end streaming platform -->
+I have followed below youtube video to build the end-to-end streaming platform for learning purpose -->
 [YouTube Video Tutorial](https://www.youtube.com/watch?v=GqAcTrqKcrY).
